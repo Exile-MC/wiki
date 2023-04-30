@@ -2,17 +2,17 @@
 title: Home
 description: 
 published: true
-date: 2023-04-30T23:55:00.595Z
+date: 2023-04-30T23:55:22.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
 ---
 
 
-
+<div style="height: 200px"> </div>
 <div align="center" style="font-size: 35px;">Welcome to EXILE</div>
 <div align="center">An anarchist geopolitical roleplay server.</div>
-<div style="height: 200px"> </div>
+<div style="height: 50px"> </div>
 
 - [<i class="fas fa-globe" style="color: #ffbb00;"></i> Main Website *Main Website, just has this same set of links with fancier images.*](https://exile.rocks)
 - [<i class="fas fa-shopping-bag" style="color: #1cce49;"></i> Store *Give us money.*](https://shop.exile.rocks)
