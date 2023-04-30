@@ -1,8 +1,8 @@
 ---
-title: Registry
+title: registry
 description: 
 published: true
-date: 2023-04-30T23:13:34.149Z
+date: 2023-04-30T23:14:48.189Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T23:03:36.382Z
