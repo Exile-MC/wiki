@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-01T00:39:42.007Z
+date: 2023-05-01T00:42:27.728Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -23,9 +23,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 {.links-list}
   
 </div>
-<div style="height: 50px"> </div>
-
-<div style="height: 50px"> </div>
+<div style="height: 100px"> </div>
 
 
 <div align="center" style="font-size: 30px;">The Registry</div>
@@ -39,9 +37,18 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 </div>
 
-<div style="height: 50px"> </div>
+<div style="height: 100px"> </div>
 
-  
+<div align="center" style="font-size: 30px;">The Guide</div>
+<div align="center">The guide is a detailed walkthrough of all rules, mechanics, and policy for play in the server.</div>
+<div style="padding-left: 20%; padding-right: 20%;">
+
+- [Guide *Here be the way of the land*](/registry)
+{.links-list}
+
+</div>
+
+<div style="height: 100px"> </div>  
 
 ###### <div align="center">© Aidan Aeternum LLC | 2022 - 2023</div>
 
