@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-01T00:46:10.750Z
+date: 2023-05-01T20:10:17.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -13,7 +13,6 @@ dateCreated: 2023-04-30T20:07:15.375Z
 <div align="center">An anarchist geopolitical roleplay server.</div>
 <div style="height: 50px"> </div>
 
-<div style="padding-left: 20%; padding-right: 20%;">
 
 - [<i class="fas fa-globe" style="color: #ffbb00;"></i> Main Website *Main Website, just has this same set of links with fancier images.*](https://exile.rocks)
 - [<i class="fas fa-shopping-bag" style="color: #1cce49;"></i> Store *Give us money.*](https://shop.exile.rocks)
@@ -22,31 +21,29 @@ dateCreated: 2023-04-30T20:07:15.375Z
 - [<i class="fas fa-atlas" style="color: #44e489;"></i> Server Map *See your base get destroyed in near real time*](https://map.exile.rocks)
 {.links-list}
   
-</div>
 <div style="height: 100px"> </div>
 
 
 <div align="center" style="font-size: 30px;">The Registry</div>
 <div align="center">The registry is a database of all player generated documents that are required to be posted in order to be recognized</div>
 <div align="center"> by the (Name of Administrators Empire) as well as to document the laws, rules, and due process of the territory.</div>
-<div style="padding-left: 20%; padding-right: 20%;">
+
 
 - [Registry *Here be the laws*](/registry)
 - [Template Records *A list of example or template documents for every type of territory.*](registry/template)
 {.links-list}
 
-</div>
 
 <div style="height: 100px"> </div>
 
 <div align="center" style="font-size: 30px;">The Guide</div>
 <div align="center">The guide is a detailed walkthrough of all rules, mechanics, and policy for play in the server.</div>
-<div style="padding-left: 20%; padding-right: 20%;">
+
 
 - [Guide *Here be the way of the land*](/guide)
 {.links-list}
 
-</div>
+
 
 <div style="height: 100px"> </div>  
 
