@@ -2,19 +2,17 @@
 title: Home
 description: 
 published: true
-date: 2023-05-01T00:07:01.049Z
+date: 2023-05-01T00:12:41.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
 ---
 
-
+<div style="padding: 100px;">
 <div style="height: 200px"> </div>
 <div align="center" style="font-size: 35px;">Welcome to EXILE</div>
 <div align="center">An anarchist geopolitical roleplay server.</div>
 <div style="height: 50px"> </div>
-
-<div style="width: 80%;">
 
 - [<i class="fas fa-globe" style="color: #ffbb00;"></i> Main Website *Main Website, just has this same set of links with fancier images.*](https://exile.rocks)
 - [<i class="fas fa-shopping-bag" style="color: #1cce49;"></i> Store *Give us money.*](https://shop.exile.rocks)
@@ -22,6 +20,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 - [<i class="fab fa-discord" style="color: #869efd;"></i> Discord *We ask that you join this for a ton of reasons.*](https://discord.exile.rocks)
 - [<i class="fas fa-atlas" style="color: #44e489;"></i> Server Map *See your base get destroyed in near real time*](https://map.exile.rocks)
 {.links-list}
+
 
 <div style="height: 100px"> </div>
 <div align="center" style="font-size: 30px;">Guide</div>
@@ -44,6 +43,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 <div style="height: 100px"> </div>
   
-</div>
 
 ###### <div align="center">© Aidan Aeternum LLC | 2022 - 2023</div>
+
+</div>
