@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-01T00:16:04.780Z
+date: 2023-05-01T00:18:16.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -42,8 +42,8 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 <div style="height: 100px"> </div>
 <div align="center" style="font-size: 30px;">The Registry</div>
-<div align="center">The registry is a database of all player generated documents that are required to be posted in order to be recognized by the (Name of Administrators Empire) as well as to document the laws, rules, and due process of the territory.</div>
-
+<div align="center">The registry is a database of all player generated documents that are required to be posted in order to be recognized</div>
+<div align="center"> by the (Name of Administrators Empire) as well as to document the laws, rules, and due process of the territory.</div>
 <div style="padding-left: 20%; padding-right: 20%;">
 
 - [Registry *Here be the laws*](/registry)
@@ -56,3 +56,11 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 ###### <div align="center">© Aidan Aeternum LLC | 2022 - 2023</div>
 
+<style>
+  @media screen and (max-width: 600px) {
+    div {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+</style>
