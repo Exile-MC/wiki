@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-07T20:28:14.511Z
+date: 2023-05-07T20:30:27.622Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -13,15 +13,14 @@ dateCreated: 2023-04-30T20:07:15.375Z
 ![logo.png](/logo.png =350x){.align-center}
 <div style="height: 20px"> </div>
 <div align="center">An anarchist geopolitical roleplay server.</div>
-<div style="height: 50px"> </div>
+<div style="height: 150px"> </div>
 
 
 
 
 
 <div align="center" style="font-size: 30px;">The Registry</div>
-<div align="center">The registry is a database of all player generated documents that are required to be posted in order to be recognized</div>
-<div align="center"> by the (Name of Administrators Empire) as well as to document the laws, rules, and due process of the territory.</div>
+<div align="center">The registry is a database of all player generated documents that are required to be posted in order to be recognized by the (Name of Administrators Empire) as well as to document the laws, rules, and due process of the territory.</div>
 
 
 - [Registry *Here be the laws*](/registry)
@@ -41,6 +40,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 
 <div style="height: 100px"> </div>  
+<div align="center" style="font-size: 30px;">Links</div>
 
 - [<i class="fas fa-globe" style="color: #ffbb00;"></i> Main Website *Main Website, just has this same set of links with fancier images.*](https://exile.rocks)
 - [<i class="fas fa-shopping-bag" style="color: #1cce49;"></i> Store *Give us money.*](https://shop.exile.rocks)
