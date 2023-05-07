@@ -2,14 +2,16 @@
 title: Home
 description: 
 published: true
-date: 2023-05-07T17:14:17.516Z
+date: 2023-05-07T20:28:14.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
 ---
 
-<div style="height: 200px"> </div>
-<div align="center" style="font-size: 35px;">Welcome to EXILE</div>
+<div style="height: 50px"> </div>
+
+![logo.png](/logo.png =350x){.align-center}
+<div style="height: 20px"> </div>
 <div align="center">An anarchist geopolitical roleplay server.</div>
 <div style="height: 50px"> </div>
 
