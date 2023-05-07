@@ -2,7 +2,7 @@
 title: The Civ Breakdown
 description: A meta-analysis of all of Civ's design decisions and mechanics
 published: true
-date: 2023-05-06T15:18:01.691Z
+date: 2023-05-07T08:29:07.319Z
 tags: brainstorming
 editor: ckeditor
 dateCreated: 2023-05-06T08:13:17.410Z
@@ -28,27 +28,37 @@ dateCreated: 2023-05-06T08:13:17.410Z
 <p><u>Implementation, Suggestions and Flaws</u></p>
 <p>Recipes are often disabled by appropriate plugins due to balance reasons or to gate certain progression behind other materials.</p>
 <h2>Experience</h2>
-<p><u>The Why</u><br>&nbsp;</p>
+<p><u>The Why</u></p>
+<p>Experience is one of the endgame resources of vanilla, needed to make god tools and other equipment and repair existing tools.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
-<p>&nbsp;</p>
+<p>Civ servers tend to disable experience gain completely, and instead gate it behind <i>factories</i>, to make it so that reaching the end game requires large scale infrastructure and cooperation. Some civ servers have also directly added factory-based enchanting, requiring a large setup for a factory that then randomly enchants items like vanilla but for a discounted cost.</p>
+<p>Mending has also been disabled on all civ servers on versions of Minecraft that have it, as it could be seen as an infinite source of wealth, and removes the scarcity for tool materials like diamonds. Interacting with grindstones is also often disabled to prevent experience refunds and farming fished enchanted items for experience.</p>
 <h2>Building</h2>
 <p><u>The Why</u></p>
-<p>&nbsp;</p>
+<p>Building is one of the core features of Minecraft, as it is a sandbox game.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
+<p>The creation of&nbsp;builds purely for aesthetic reasons currently serves no mechanical purpose on civ, yet is one of the most important parts of it that should be encouraged heavily.</p>
+<p>Construction of practical infrastructure is often done in a ‘solved’ manner: there is often a clear ‘best way’ to build something like a bunker, tree farm, etc. due to the nature of the plugins.</p>
 <h2>Trade</h2>
 <p><u>The Why</u></p>
-<p>&nbsp;</p>
+<p>In vanilla, trading is mostly limited to between the players and villagers, with vanilla seeing some limited trade and demand for rare or highly regionalised drops such as elytra.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
-<p>&nbsp;</p>
+<p>Keeping an infinite wealth source such as villager trading devalues a lot of things in the game, so civ servers have unanimously removed villager trades. In the same vein, no civ server has ever had an ‘admin shop’ or plugin-based currency; however, there have existed player-made fiat currencies.</p>
 <h2>PvP</h2>
 <p><u>The Why</u></p>
 <p>PvP is the most direct method of resolving conflicts.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
-<p>&nbsp;</p>
+<p>Civ servers have a notoriously strong demographic of players that continuously lobby for non-vanilla PvP in the form of ‘old’ PvP, which is mostly based on clicking rapidly at approx. 7-8 times per second. This continues to stray farther from what new players are familiar with and reduces parity with vanilla. Also, civ servers often add cooldowns to things like golden apples, crossbows, and pearls, as their potential to be spammed can create bad gameplay.</p>
 <h2>World Size</h2>
-<p><u>The Why</u><br>&nbsp;</p>
+<p><u>The Why</u></p>
+<p>&nbsp;</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
 <p>&nbsp;</p>
+<h2>Travel and Transport</h2>
+<p><u>The Why</u></p>
+<p>&nbsp;</p>
+<p><u>Implementation, Suggestions and Flaws</u></p>
+<p>Civ servers often disable elytra, piston transport and boat ice roads, both for performance and balance reasons.</p>
 <h1>Core Plugins</h1>
 <h2>Citadel</h2>
 <p><u>The Why</u></p>
@@ -61,9 +71,9 @@ dateCreated: 2023-05-06T08:13:17.410Z
 <p>One of the most toxic emergent tactics Citadel enables is ‘obby bombing’, where players grief enemy cities with reinforced obsidian. This led to the <i>Bastion</i> plugin, detailed below. Obby bombing damage can be mitigated through design with long maturation times, accessible acid blocks, and passive effects such as faster breaking while in friendly territory.</p>
 <h2>Imprisonment</h2>
 <p><u>The Why</u></p>
-<p>&nbsp;</p>
+<p>Player-enacted policing of the community is fairly weak with purely vanilla mechanics. PrisonBed and, later, PrisonPearl, sought to solve this issue by adding a way to effectively soft-ban players for a constant cost if they were killed by an enemy with an ender pearl in their inventory.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
-<p>&nbsp;</p>
+<p>Because PrisonPearl has no upper limit on how long a player can be held in a pearl, and provides no real incentive to come up with sensible sentences, the resultant ‘permapearl culture' <strong>is extremely toxic and often cited as one of the killers of civ</strong>, both for old players and newcomers.</p>
 <h2>Bastions</h2>
 <p><u>The Why</u></p>
 <p>After a particularly bad series of obby bombings, the admins came up with area protection blocks that stop enemies placing blocks at the cost of their reinforcement. They can eventually be broken. The permissions for a bastion are <strong>highly configurable</strong>, allowing blacklists and whitelists, and enabling and disabling of many features. Their features have gradually crept, growing to block elytra flight and hostile ender pearl flight by default.</p>
@@ -75,7 +85,7 @@ dateCreated: 2023-05-06T08:13:17.410Z
 <p>There was an idea that some mechanics should be hard capped by the number of players in a nation and how active they are.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
 <p>Stamina can be claimed every day after 30 minutes of playing as a physical item. You can build up streaks by claiming stamina for several days in a row to get bonus stamina.</p>
-<p>Because stamina never expires and is a physical item, it can be hoarded, which leads to very unfun gameplay where people log in simply to claim and hoard stamina, and those who have played the server longer simply have an advantage due to having had more time in which to hoard stamina.</p>
+<p>Because stamina never expires and is a physical item,<strong> it can be hoarded</strong>, which leads to very unfun gameplay where people log in simply to claim and hoard stamina, and those who have played the server longer simply have an advantage due to having had more time in which to hoard stamina.</p>
 <h2>ItemExchange</h2>
 <p><u>The Why</u></p>
 <p>A safe way to enable fixed goods trading while offline needed to be implemented to properly facilitate meaningful trade.</p>
@@ -93,7 +103,7 @@ dateCreated: 2023-05-06T08:13:17.410Z
 <h2>&nbsp;</h2>
 <h2>SkillUp</h2>
 <p><u>The Why</u></p>
-<p>Provide an incentive to specialise into a skill and a single character</p>
+<p>Provide an incentive to specialise into a mechanic, an area, or a single character.</p>
 <p><u>Ideas for Implementation</u></p>
 <h2>&nbsp;</h2>
 <h2>Influence</h2>
