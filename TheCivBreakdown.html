@@ -2,7 +2,7 @@
 title: The Civ Breakdown
 description: A meta-analysis of all of Civ's design decisions and mechanics
 published: true
-date: 2023-05-07T08:29:07.319Z
+date: 2023-05-09T16:20:44.145Z
 tags: brainstorming
 editor: ckeditor
 dateCreated: 2023-05-06T08:13:17.410Z
@@ -27,6 +27,8 @@ dateCreated: 2023-05-06T08:13:17.410Z
 <p>Crafting not only covers handcrafting and workbenches, but also crafting stations such as furnaces and composters.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
 <p>Recipes are often disabled by appropriate plugins due to balance reasons or to gate certain progression behind other materials.</p>
+<h2>Farming</h2>
+<p>See <i>RealisticBiomes</i>.</p>
 <h2>Experience</h2>
 <p><u>The Why</u></p>
 <p>Experience is one of the endgame resources of vanilla, needed to make god tools and other equipment and repair existing tools.</p>
@@ -51,14 +53,19 @@ dateCreated: 2023-05-06T08:13:17.410Z
 <p>Civ servers have a notoriously strong demographic of players that continuously lobby for non-vanilla PvP in the form of ‘old’ PvP, which is mostly based on clicking rapidly at approx. 7-8 times per second. This continues to stray farther from what new players are familiar with and reduces parity with vanilla. Also, civ servers often add cooldowns to things like golden apples, crossbows, and pearls, as their potential to be spammed can create bad gameplay.</p>
 <h2>World Size</h2>
 <p><u>The Why</u></p>
-<p>&nbsp;</p>
+<p>For practical reasons, as storage space and RAM are limited by the server setups, and for gameplay and balance reasons, to provide a limited number of resources.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
-<p>&nbsp;</p>
+<p>World size has a massive effect on the gameplay of the server. Larger worlds make it harder to trade and maintain exclaves, and smaller worlds are filled quickly by power players and infrastructure. However, a large size does not always equal a long-lived server; 2.0 having a massive world and a long lifespan should be seen as survivor bias. It should be noted that most servers that have expanded have done so on a dimension basis (adding new worlds) rather than a shard basis (expanding the current world).</p>
 <h2>Travel and Transport</h2>
 <p><u>The Why</u></p>
-<p>&nbsp;</p>
+<p>There are many ways to get around in Minecraft: horses, boats, minecarts, portals, elytra and more. Each one has an investment cost and a nominal travel speed.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
-<p>Civ servers often disable elytra, piston transport and boat ice roads, both for performance and balance reasons.</p>
+<p>Civ servers often disable elytra, piston transport and boat ice roads, both for performance and balance reasons. Being able to travel too quickly on a small world would only enable reactive, exclave-focused gameplay.</p>
+<h2>Inventory</h2>
+<p><u>The Why</u></p>
+<p>The player inventory and its management has always been a critical part of Minecraft.</p>
+<p><u>Implementation, Suggestions and Flaws</u></p>
+<p>Shulkers have almost been universally disabled to encourage good inventory management and foster meaningful trade, with compaction of stacks of materials into single items offering a good solution for trade at the expense of making the items useless while in transit. Very few servers have played with the idea of limiting inventory space or trying to add weight limits to the player, as the theory is that these would only detract from gameplay rather than provide more depth.</p>
 <h1>Core Plugins</h1>
 <h2>Citadel</h2>
 <p><u>The Why</u></p>
@@ -74,6 +81,12 @@ dateCreated: 2023-05-06T08:13:17.410Z
 <p>Player-enacted policing of the community is fairly weak with purely vanilla mechanics. PrisonBed and, later, PrisonPearl, sought to solve this issue by adding a way to effectively soft-ban players for a constant cost if they were killed by an enemy with an ender pearl in their inventory.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
 <p>Because PrisonPearl has no upper limit on how long a player can be held in a pearl, and provides no real incentive to come up with sensible sentences, the resultant ‘permapearl culture' <strong>is extremely toxic and often cited as one of the killers of civ</strong>, both for old players and newcomers.</p>
+<h2>RealisticBiomes</h2>
+<p><u>The Why</u></p>
+<p>Because Minecraft lets you grow anything almost anywhere, even underground, development on a more immersive and limited plugin to control farming was a critical part of early civ.</p>
+<p><u>Implementation, Suggestions and Flaws</u></p>
+<p>RealisticBiomes crops grow persistently, even when the player who planted them is offline, which allows for crop growth to be made much slower without punishing people who cannot log in for log periods in a day. In exchange, they cannot be fertilised with bone meal.</p>
+<p>The RealisticBiomes config is one of the things that varies most between civ servers. Some see it as a way to equalise biomes, with each having their advantages, while others are not afraid to make some biomes superior to others. But every single server recognises the power that RB grants to regionalise important resources and provide either abundance or scarcity to materials.</p>
 <h2>Bastions</h2>
 <p><u>The Why</u></p>
 <p>After a particularly bad series of obby bombings, the admins came up with area protection blocks that stop enemies placing blocks at the cost of their reinforcement. They can eventually be broken. The permissions for a bastion are <strong>highly configurable</strong>, allowing blacklists and whitelists, and enabling and disabling of many features. Their features have gradually crept, growing to block elytra flight and hostile ender pearl flight by default.</p>
@@ -90,43 +103,48 @@ dateCreated: 2023-05-06T08:13:17.410Z
 <p><u>The Why</u></p>
 <p>A safe way to enable fixed goods trading while offline needed to be implemented to properly facilitate meaningful trade.</p>
 <p><u>Implementation, Suggestions and Flaws</u></p>
+<p>IE works using chests rather than player-made NPCs, as chests can be easily reinforced using Citadel and are not subject to entity-related exploits.</p>
 <h1>Pies in the Sky</h1>
+<p>Plugins that have not yet seen the light of day but have been floated as ideas for a long time.</p>
 <h2>Contraptions</h2>
 <p><u>The Why</u></p>
 <p>Reduce the need to no-life the game by adding structures that can do menial tasks such as harvest large fields at the cost of stamina.</p>
 <p><u>Ideas for Implementation</u></p>
-<h2>&nbsp;</h2>
-<h2>Wargoals</h2>
+<p>Ideas ranging from repurposing factories, to using NPCs, to multiblock structures have been suggested. It's mostly agreed upon that these structures should not be infinitely scalable, and that they should instead provide a way for players with busy schedules to still feel able to progress alongside those who play frequently.</p>
+<h2>WarGoals</h2>
 <p><u>The Why</u></p>
 <p>No healthy way to close out a stagnant war. Also provide an emergent reason to have ‘fair fights’ between nations.</p>
 <p><u>Ideas for Implementation</u></p>
-<h2>&nbsp;</h2>
+<p>Most wars on modern civ servers end up being a series of short skirmishes between small subsets of populations done at non-peak hours, with most non-fighters feeling useless or threatened during this time. These also tend to fall into two extremes of either being very conclusive or not having an effect on the war as a whole. Ideally there should be an encouragement in an emergent way to have players organise fights and theatres of war between their nations with incremental consequences, rather than polarisingly decisive battles between small numbers of players. There should also be a way for nations to reach agreements and close out wars without needing to completely eliminate each other, which could be done by adding ways to declare war goals of claims that nations want to take or other goals such as humiliate or demilitarise another nation, as well as ways to effectively transfer claims and reinforcements in occupied territories over to the winning nation. There should also be a bonus for warring only when diplomacy has failed, together with a penalty for frequent warring.</p>
 <h2>SkillUp</h2>
 <p><u>The Why</u></p>
-<p>Provide an incentive to specialise into a mechanic, an area, or a single character.</p>
+<p>Provide an incentive to specialise into a mechanic, an area, or a single character. This is to disincentivise exclaves and colonies and instead encourage</p>
 <p><u>Ideas for Implementation</u></p>
-<h2>&nbsp;</h2>
+<p>Ideas range from providing small numerical boosts (e.g. +20% mining speed when in a certain biome) to adding entirely new mechanics to the game (e.g. arrows instead deal magical damage).</p>
 <h2>Influence</h2>
 <p><u>The Why</u></p>
 <p>Areas that are invested into greatly should protect themselves by emitting their own Bastion-like field, even if they're completely aesthetic builds, to encourage building for the sake of building.</p>
 <p><u>Ideas for Implementation</u></p>
-<h2>&nbsp;</h2>
+<p>Ideas have ranged from CityCores, unique bastions that would create huge fields around them based on nearby buildings, to a mechanic similar to Factorio's pollution spread, where building in a chunk builds up Influence which diffuses to neighbouring chunks over time</p>
 <h2>Smeltery</h2>
 <p><u>The Why</u></p>
-<p>&nbsp;</p>
 <p><u>Ideas for Implementation</u></p>
-<p>&nbsp;</p>
 <h2>Inspiration</h2>
 <p><u>The Why</u></p>
-<p>&nbsp;</p>
 <p><u>Ideas for Implementation</u></p>
 <p>&nbsp;</p>
-<h1>General Meta Notes</h1>
+<h1>General Meta Notes and Problems</h1>
+<h2>Alts</h2>
+<p>Despite alternate accounts being allowed on some previous iterations, nowadays it's normally agreed on that they represent a pay-to-win problem if allowed, together with the fact they strongly detract from the idea of civ that interacting with a person in-game has weight to it, and one person in-game represents a real life person.</p>
 <h2>Crayon Claiming</h2>
-<p>&nbsp;</p>
+<p>Crayon claiming is the act of claiming land beyond what is currently being used or what is enforceable, in order to save the valuable estate for hypothetical later use. This is enabled by nations that crayon claim normally having more leverage over people who make player-made maps, together with low upkeep requirements for snitches and reinforcements.</p>
+<h2>Scarcity versus Abundance</h2>
+<p>A constant contention point is what inspires trade more: a scarcity of a resource in an area, or an abundance of a resource in another? In reality, both encourage trade, each having their downsides: scarcity negatively affects player morale, while abundance tends to homogenise progression globally.</p>
 <h2>Exclave Simulator/ColonyCraft</h2>
-<p>&nbsp;</p>
+<p>On mainline civ servers, it's very common to see nations claiming exclaves or making colonies to exploit RealisticBiomes to its full potential. This stifles trade and causes large, powerful nations who can keep up these colonies to push out other, more grassroots nations from valuable areas.</p>
 <h2>Vaults and Bunkers</h2>
-<p>&nbsp;</p>
+<p>Because of the lack of massive change with regards to Bastion and Citadel between servers, secure infrastructure design is a highly competitive and secretive field of building, where nations often compete to build the best defensive infrastructure and keep it secret.</p>
 <h2>Renewable Materials and Scarcity</h2>
-<p>&nbsp;</p>
+<p>As a lot of materials in Minecraft are gated behind dimensions, this means a lot of building materials may be unavailable to build with, and as such need to have other methods of being obtained. This can make certain materials very sought after and discouraging for builders when they don't have a good selection of things to build from. The opposite of this is when a recipe is added to the server that adds a way to get a previously scarce material easily. In this case, there is a tradeoff in that builders will have a material more readily available, but buildings using that material will be less impressive as a result. There is also the added issue if that material is needed for production, security or defense: it removes a market for that material if it's made too easy to obtain, or creates unwanted conflict if it's too scarce, and if many materials are scarce, it begins to erode on players' will to play.</p>
+<h2>Need for War</h2>
+<p>On civ servers, there are very few wars fought over land, and most are fought over policy or the behaviour of individuals or nations. This is because there is no easy way to convert land and infrastructure successfully occupied over to your own groups, or even incentives to make vassals or pacts with groups or individuals living on sections of occupied land. Since the investment is equal, this leads to nations simply <i>Crayon Claiming</i> and building their own infrastructure.</p>
