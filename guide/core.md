@@ -2,13 +2,13 @@
 title: Core Mechanics
 description: Underneath everything else
 published: true
-date: 2023-05-29T15:23:12.020Z
+date: 2023-05-29T15:24:46.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
 ---
 
-# Core Mechanics
+# Mechanics
 Something something
 
 ## Server
