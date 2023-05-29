@@ -2,7 +2,7 @@
 title: Core Mechanics
 description: Underneath everything else
 published: true
-date: 2023-05-29T15:14:24.661Z
+date: 2023-05-29T15:19:11.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
@@ -16,6 +16,7 @@ Something something
 - [GeoDrop *It's all stone?*](/guide/core/geodrop)
 - [Mapping *Never ask a cardinal for directions*](/guide/core/map)
 - [Electricity *Bzzzt*](/guide/core/electricity)
+- [Temperature *The sun is a deadly lazer*](/guide/core/temperature)
 {.links-list}
 
 ## Player
