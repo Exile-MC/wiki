@@ -2,7 +2,7 @@
 title: Compendium
 description: It's Stupendium in size
 published: true
-date: 2023-05-29T14:09:46.294Z
+date: 2023-05-29T15:22:55.959Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:58:38.071Z
@@ -35,3 +35,5 @@ The enhanced Bastion block fortifies the chunk it sits in like the standard Bast
 Bastions can be crafted in the blah
 ###### Use
 Place them everywhere. For a price
+
+# Items
