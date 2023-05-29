@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-07T20:30:27.622Z
+date: 2023-05-29T15:21:57.905Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -12,7 +12,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 ![logo.png](/logo.png =350x){.align-center}
 <div style="height: 20px"> </div>
-<div align="center">An anarchist geopolitical roleplay server.</div>
+<div align="center">A civilization style geopolitical roleplay server.</div>
 <div style="height: 150px"> </div>
 
 
