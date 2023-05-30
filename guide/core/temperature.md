@@ -2,7 +2,7 @@
 title: Temperature and Weather
 description: Rain rain, go away, come again another day.
 published: true
-date: 2023-05-29T15:20:56.790Z
+date: 2023-05-30T13:51:07.150Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T15:20:56.790Z
