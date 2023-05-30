@@ -2,7 +2,7 @@
 title: GeoDrop
 description: Just keep mining
 published: true
-date: 2023-05-29T13:40:28.272Z
+date: 2023-05-30T13:48:55.617Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:40:28.272Z
