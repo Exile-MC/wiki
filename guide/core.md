@@ -2,7 +2,7 @@
 title: Core Mechanics
 description: Underneath everything else
 published: true
-date: 2023-05-30T13:38:30.238Z
+date: 2023-05-30T13:39:15.171Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
@@ -13,9 +13,6 @@ The server has a variety of custom features and mechanics. These are loosely bas
 
 ## Player
 - [Stamina *May Hylia grant you more*](/guide/core/stamina)
-{.links-list}
-
-## Government
 - [FortiChunk *Obby reinforced obby reinforced obby*](/guide/core/fortichunk)
 - [Domain *There's no golden shovel here*](/guide/core/domain)
 {.links-list}
