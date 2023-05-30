@@ -2,7 +2,7 @@
 title: Server Initialization
 description: Important things the server does every time it starts
 published: true
-date: 2023-05-29T15:33:53.162Z
+date: 2023-05-30T13:48:16.497Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T15:33:53.162Z
