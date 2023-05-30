@@ -2,7 +2,7 @@
 title: FortiChunk
 description: Fortify your chunks lads.
 published: true
-date: 2023-05-29T14:25:54.941Z
+date: 2023-05-30T13:47:08.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T14:25:54.941Z
