@@ -2,11 +2,19 @@
 title: Compendium
 description: It's Stupendium in size
 published: true
-date: 2023-05-29T15:22:55.959Z
+date: 2023-05-30T14:18:38.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:58:38.071Z
 ---
+
+- [Blocks *There's no golden shovel here*](/guide/compendium/blocks)
+- [Items *There's no golden shovel here*](/guide/compendium/items)
+- [Commands *There's no golden shovel here*](/guide/compendium/commands)
+{.links-list}
+
+
+
 
 # The Compendium
 Is a master list of all custom blocks and items in the game, how to obtain or craft them, and what they are used for.
