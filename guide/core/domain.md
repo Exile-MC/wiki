@@ -2,7 +2,7 @@
 title: Domain
 description: Form your dominion
 published: true
-date: 2023-05-29T14:34:51.533Z
+date: 2023-05-30T13:47:58.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T14:34:51.533Z
