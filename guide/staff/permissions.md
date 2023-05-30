@@ -2,7 +2,7 @@
 title: Permissions
 description: yep
 published: true
-date: 2023-05-30T15:23:02.618Z
+date: 2023-05-30T15:25:50.437Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-30T14:12:24.046Z
