@@ -2,7 +2,7 @@
 title: Electricity
 description: This ones complicated
 published: true
-date: 2023-05-29T15:16:58.040Z
+date: 2023-05-30T13:49:37.752Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T15:16:58.040Z
