@@ -2,7 +2,7 @@
 title: Core Mechanics
 description: Underneath everything else
 published: true
-date: 2023-05-30T13:46:20.678Z
+date: 2023-05-30T13:51:39.265Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
@@ -12,17 +12,17 @@ dateCreated: 2023-05-29T13:25:24.095Z
 The server has a variety of custom features and mechanics. These are loosely based on classic civilization servers, but intend to modernize and unify the overall playability, and means in which these systems interact for a refreshed and fun new take on the genre.
 
 ## Player
-- [Stamina *May Hylia grant you more*](/guide/core/stamina)
-- [FortiChunk *Obby reinforced obby reinforced obby*](/guide/core/fortichunk)
-- [Domain *There's no golden shovel here*](/guide/core/domain)
+- [Stamina *May Hylia grant you more*](/guide/mechanics/stamina)
+- [FortiChunk *Obby reinforced obby reinforced obby*](/guide/mechanics/fortichunk)
+- [Domain *There's no golden shovel here*](/guide/mechanics/domain)
 {.links-list}
 
 ## Server
-- [Initialization *Important things the server does every time it starts*](/guide/core/initialization)
-- [Day Cycle *TLDR; it's 24 real life hours long*](/guide/core/daycycle)
-- [GeoDrop *It's all stone?*](/guide/core/geodrop)
-- [Mapping *Never ask a cardinal for directions*](/guide/core/map)
-- [Electricity *Bzzzt*](/guide/core/electricity)
-- [Temperature *The sun is a deadly lazer*](/guide/core/temperature)
+- [Initialization *Important things the server does every time it starts*](/guide/mechanics/initialization)
+- [Day Cycle *TLDR; it's 24 real life hours long*](/guide/mechanics/daycycle)
+- [GeoDrop *It's all stone?*](/guide/mechanics/geodrop)
+- [Mapping *Never ask a cardinal for directions*](/guide/mechanics/map)
+- [Electricity *Bzzzt*](/guide/mechanics/electricity)
+- [Temperature *The sun is a deadly lazer*](/guide/mechanics/temperature)
 {.links-list}
 
