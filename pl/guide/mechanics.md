@@ -2,7 +2,7 @@
 title: Mechanics
 description: Underneath everywhere else
 published: true
-date: 2023-06-01T08:01:07.341Z
+date: 2023-06-01T08:09:09.871Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T08:01:07.341Z
@@ -20,7 +20,7 @@ The server has a variety of custom features and mechanics. These are loosely bas
 
 ## Server
 - [Initialization *Important things the server does every time it starts*](/guide/mechanics/initialization)
-- [Day Cycle *TLDR; it's 24 real life hours long*](/guide/mechanics/daycycle)
+- [Day Cycle *TLDR; it's 8 hours*](/guide/mechanics/daycycle)
 - [GeoDrop *It's all stone?*](/guide/mechanics/geodrop)
 - [Mapping *Never ask a cardinal for directions*](/guide/mechanics/map)
 - [Electricity *Bzzzt*](/guide/mechanics/electricity)
