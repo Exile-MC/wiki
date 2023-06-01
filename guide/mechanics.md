@@ -1,8 +1,8 @@
 ---
-title: Core Mechanics
+title: Mechanics
 description: Underneath everything else
 published: true
-date: 2023-05-30T14:06:35.362Z
+date: 2023-06-01T08:01:05.662Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
