@@ -2,7 +2,7 @@
 title: Guide
 description: Let it guide you
 published: true
-date: 2023-06-01T07:58:27.406Z
+date: 2023-06-01T08:14:31.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T07:58:04.383Z
