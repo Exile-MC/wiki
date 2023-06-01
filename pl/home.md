@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-06-01T04:41:18.498Z
+date: 2023-06-01T07:27:57.179Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T04:41:18.498Z
@@ -20,8 +20,8 @@ dateCreated: 2023-06-01T04:41:18.498Z
 
 
 
-<div align="center" style="font-size: 30px;">The Registry</div>
-<div align="center">The registry is a database of all player generated documents that are required to be posted in order to be recognized by the (Name of Administrators Empire) as well as to document the laws, rules, and due process of the territory.</div>
+<div align="center" style="font-size: 30px;">Rejestr</div>
+<div align="center">Rejestr jest bazą danych wszystkich dokumentów wymaganych __________ The registry is a database of all player generated documents that are required to be posted in order to be recognized by the (Name of Administrators Empire) as well as to document the laws, rules, and due process of the territory.</div> <!--- test --->
 
 
 - [Registry *Here be the laws*](/registry)
