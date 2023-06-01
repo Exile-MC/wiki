@@ -2,7 +2,7 @@
 title: Compendium
 description: It's Stupendium in size
 published: true
-date: 2023-06-01T08:13:51.774Z
+date: 2023-06-01T08:14:03.320Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:58:38.071Z
