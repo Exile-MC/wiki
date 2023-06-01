@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-29T15:21:57.905Z
+date: 2023-06-01T04:32:40.204Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -15,7 +15,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 <div align="center">A civilization style geopolitical roleplay server.</div>
 <div style="height: 150px"> </div>
 
-
+<i class="fa-solid fa-book-open-cover"></i>
 
 
 
