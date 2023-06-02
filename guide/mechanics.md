@@ -2,7 +2,7 @@
 title: Mechanics
 description: Underneath everything else
 published: true
-date: 2023-06-01T08:09:12.307Z
+date: 2023-06-02T06:18:10.326Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
@@ -25,5 +25,6 @@ The server has a variety of custom features and mechanics. These are loosely bas
 - [Mapping *Never ask a cardinal for directions*](/guide/mechanics/map)
 - [Electricity *Bzzzt*](/guide/mechanics/electricity)
 - [Temperature *The sun is a deadly lazer*](/guide/mechanics/temperature)
+- [Combat *I dunno*](/guide/mechanics/combat)
 {.links-list}
 
