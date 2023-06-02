@@ -2,7 +2,7 @@
 title: Village Templates
 description: 
 published: true
-date: 2023-06-02T11:47:11.010Z
+date: 2023-06-02T11:47:29.905Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-02T09:21:38.127Z
@@ -16,7 +16,7 @@ A Totalitarian village will be the most common government type. In it, the goals
 An authoritarian government is militaristic in nature. Controlled by a powerful entity who cannot be easily overthrown, but grants more freedoms to its members then potentially both other main types of villages. This could be for example, a band of raiders with a home base acting as thir village. They play for combat, a simpler objective then distribution of resources, wealth, and freedoms. The ruler is absolute but likely rules with high levels of loyalty, like a big fucked up family. a criminal organization would be another example of an authoritarian government in the context of the exile server.
 
 
-I want to form a:
+I want to form a(n):
 
 - [Democratic Village](/registry/template/village/democratic)
 - [Totalitarian Village](/registry/template/village/totalitarian)
