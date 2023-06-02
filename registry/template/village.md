@@ -2,7 +2,7 @@
 title: Village Templates
 description: 
 published: true
-date: 2023-06-02T09:53:07.144Z
+date: 2023-06-02T11:42:43.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-02T09:21:38.127Z
