@@ -2,7 +2,7 @@
 title: Registry
 description: Here be dem laws
 published: true
-date: 2023-06-02T09:40:28.701Z
+date: 2023-06-02T09:52:49.166Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T23:03:36.382Z
