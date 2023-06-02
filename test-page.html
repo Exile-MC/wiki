@@ -2,35 +2,42 @@
 title: Test Page
 description: 
 published: true
-date: 2023-06-02T12:51:04.192Z
+date: 2023-06-02T12:54:54.147Z
 tags: 
 editor: code
 dateCreated: 2023-06-02T12:51:04.192Z
 -->
 
-<h1>Parallax Tilt Effect Cards</h1>
-<p>Hover over the cards.</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      height: 100vh;
+    }
 
-<section class="main">
+    .tile {
+      width: 200px;
+      height: 200px;
+      background-color: #ccc;
+      border-radius: 10px;
+      margin: 10px;
+      transition: background-color 0.3s ease;
+    }
 
-  <div class="wrap wrap--1">
-    <div class="container container--1">
-      <p>01. Normal</p>
-    </div>
+    .tile:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="tile"></div>
+    <div class="tile"></div>
   </div>
-
-  <div class="wrap wrap--2">
-    <div class="container container--2">
-      <p>02. Reverse</p>
-    </div>
-  </div>
-
-  <div class="wrap wrap--3">
-    <div class="container container--3">
-      <p>03. Normal</p>
-    </div>
-  </div>
-
-</section>
-
-<a href="https://abubakersaeed.netlify.app/designs/d10-parallax-tilt-effect-cards" class="abs-site-link" rel="nofollow noreferrer" target="_blank">abs/designs/d10-parallax-tilt-effect-cards</a>
+</body>
+</html>
