@@ -2,18 +2,38 @@
 title: Templates
 description: Charter templates for forming your government
 published: true
-date: 2023-06-02T09:09:44.319Z
+date: 2023-06-02T09:38:47.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-02T09:09:44.319Z
 ---
 
 # Government Templates
-The following is a list of templates of the various documents you aqre required to submit for your territory to be formally recognized. They are sorted by government size, followed by type.
 
 - [Village](/registry/template/village)
 - [Province](/registry/template/province)
 - [Nation](/registry/template/nation)
 {.links-list}
 
+The following is a list of templates of the various documents you are required to submit for your territory to be formally recognized. They are sorted by government size, followed by type.
+
+A **Village** requires 3 members and 10 claimed chunks between the 3 members all connected to eachother. The forming members must also be in a party, and the charter must declare which player is the leader of that government.
+
+A **Province** forms when two or more villages chose to form a total alliance, they are expected to formally register the province, declare borders. One of the member villages must be declared as the capital of the province, and that villages leader automatically becomes the provinces leader under the new province charter and documents.
+
+A **Nation** is a total alliance between two or more provinces, and requires approval from the High Court to form. A province must be selected as the capital province of the nation, and its capital village becomes the nations capital city. The leader of a nation becomes a member of the High Court, and may vote in all future matters brought before the High Court.
+
+
+
+# Misc Documents
+- [Declarations](/registry/template/docs/declaration)
+- [Treaties](/registry/template/docs/treaty)
+- [Wartime Documents](/registry/template/docs/war)
+{.links-list}
+
+**Declarations** are simply government isued statements. They may recognize another government in hopes to offer legitamacy to it, they may declare unrest with another territory, request foreign aid, or simply make official announcements to their own citizens. While this would normally include declarations of war, that has its own category.
+
+**Treaties** are agreements between nations. A treaty is a formal and binding agreement or contract between two or more sovereign states, outlining rights, obligations, and responsibilities of the involved parties. Treaties can cover various aspects, such as peace, trade, defense, environmental issues, human rights, and more. They are typically negotiated and signed by authorized representatives of the participating nations and often require ratification or approval from the respective governments to come into effect.
+
+**Wartime** documents are formal declarations of war, wartime goals, and war progress. Nations may form alliances however they are not required to come to the aid of an allied nation according to the terms of their treaty unless the war is properly declared, and acknowledged by the High Court.
 
