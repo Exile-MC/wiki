@@ -2,7 +2,7 @@
 title: Temperature and Weather
 description: Rain rain, go away, come again another day.
 published: true
-date: 2023-06-02T06:13:39.985Z
+date: 2023-06-02T06:17:33.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T15:20:56.790Z
@@ -31,3 +31,9 @@ Visualize with a color particle on block tick to see how the temperature is actu
 Whole system is focused on being basically right, but as efficently and fast as possible, not as accuratley as possible. 
 
 If its too hot, set the player on fire, if its too cold, slowly freeze the player. Set it so direct sunlight can thaw them enough to move. 
+
+Sunlight just halves the players temp so no matter how cold it is, it helps them.
+
+Add thermal resistance to mobs and armor types.
+
+Bears can handle cold, so you approach a bear on the frozen mountain and freeze while it just coes up and beats the shit out of you
