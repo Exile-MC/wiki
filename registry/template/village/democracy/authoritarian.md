@@ -2,7 +2,7 @@
 title: Authoritarian Village Charter Template
 description: 
 published: true
-date: 2023-06-02T11:45:43.462Z
+date: 2023-06-02T11:46:56.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-02T11:45:43.462Z
