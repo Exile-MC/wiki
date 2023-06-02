@@ -2,7 +2,7 @@
 title: Mechanics
 description: Underneath everything else
 published: true
-date: 2023-06-02T06:18:23.775Z
+date: 2023-06-02T16:04:37.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
@@ -17,6 +17,7 @@ The server has a variety of custom features and mechanics. These are loosely bas
 - [FortiChunk *Obby reinforced obby reinforced obby*](/guide/mechanics/fortichunk)
 - [Domain *There's no golden shovel here*](/guide/mechanics/domain)
 - [Combat *I dunno*](/guide/mechanics/combat)
+- [Exclusion *ExilePearls*](/guide/mechanics/exclusion)
 {.links-list}
 
 ## Server
