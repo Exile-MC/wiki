@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-06-02T09:05:10.075Z
+date: 2023-06-02T09:51:58.178Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -15,7 +15,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 ![logo.png](/logo.png =350x){.align-center}
 <div style="height: 20px"> </div>
 <div align="center">A civilization style geopolitical roleplay server.</div>
-<div style="height: 150px"> </div>
+<div style="height: 50px"> </div>
 
 <i class="fa-solid fa-book-open-cover"></i>
 
@@ -30,7 +30,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 {.links-list}
 
 
-<div style="height: 100px"> </div>
+<div style="height: 50px"> </div>
 
 <div align="center" style="font-size: 30px;">The Guide</div>
 <div align="center">The guide is a detailed walkthrough of all rules, mechanics, and policy for play in the server.</div>
@@ -41,14 +41,14 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 
 
-<div style="height: 100px"> </div>  
+<div style="height: 50px"> </div>  
 <div align="center" style="font-size: 30px;">Links</div>
 
 - [<i class="fas fa-globe" style="color: #ffbb00;"></i> Main Website *Main Website, just has this same set of links with fancier images.*](https://exile.rocks)
-- [<i class="fas fa-shopping-bag" style="color: #1cce49;"></i> Store *Give us money.*](https://shop.exile.rocks)
-- [<i class="fas fa-book" style="color: #ff9b3d;"></i> Wiki *You're already here*](https://wiki.exile.rocks)
-- [<i class="fab fa-discord" style="color: #869efd;"></i> Discord *We ask that you join this for a ton of reasons.*](https://discord.exile.rocks)
 - [<i class="fas fa-atlas" style="color: #44e489;"></i> Server Map *See your base get destroyed in near real time*](https://map.exile.rocks)
+- [<i class="fas fa-shopping-bag" style="color: #1cce49;"></i> Store *Give us money.*](https://shop.exile.rocks)
+- [<i class="fab fa-discord" style="color: #869efd;"></i> Discord *We ask that you join this for a ton of reasons.*](https://discord.exile.rocks)
+- [<i class="fas fa-book" style="color: #ff9b3d;"></i> Wiki *You're already here*](https://wiki.exile.rocks)
 {.links-list}
   
 <div style="height: 100px"> </div>
