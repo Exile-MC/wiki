@@ -2,7 +2,7 @@
 title: Village Templates
 description: 
 published: true
-date: 2023-06-02T11:42:43.714Z
+date: 2023-06-02T11:46:41.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-02T09:21:38.127Z
@@ -20,5 +20,5 @@ I want to form a:
 
 - [Democratic Village](/registry/template/village/democratic)
 - [Totalitarian Village](/registry/template/village/totalitarian)
-- [Authoritarian Village](/registry/template/village/democracy/authoritarian)
+- [Authoritarian Village](/registry/template/village/authoritarian)
 {.links-list}
