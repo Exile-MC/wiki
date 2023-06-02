@@ -2,7 +2,7 @@
 title: Templates
 description: Charter templates for forming your government
 published: true
-date: 2023-06-02T09:55:23.064Z
+date: 2023-06-02T09:56:24.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-02T09:09:44.319Z
@@ -21,7 +21,7 @@ A **Village** requires 3 members and 10 claimed chunks between the 3 members all
 
 A **Province** forms when two or more villages chose to form a total alliance, they are expected to formally register the province, declare borders. One of the member villages must be declared as the capital of the province, and that villages leader automatically becomes the provinces leader under the new province charter and documents. A province may implement taxes, and designate a financial leader who might collect taxes, or maintain a treasury. A Province may also select members for a enforcer role, that allows the imprisoning of hostile players.
 
-A **Nation** is a total alliance between two or more provinces, and requires approval from the High Council to form. A province must be selected as the capital province of the nation, and its capital village becomes the nations capital city. The leader of a nation becomes a member of the High Council, and may vote in all future matters brought before the High Council.
+A **Nation** is a total alliance between two or more provinces, and requires approval from the High Council to form. A province must be selected as the capital province of the nation, and its capital village becomes the nations capital city. The leader of a nation becomes a member of the High Council, and may vote in all future matters brought before the High Council. A nation may tax its provinces, and is urged to set up automated trades with its provinces in order to ensure resources are exchanged around the nation to maintain itself and its needs.
 
 
 
