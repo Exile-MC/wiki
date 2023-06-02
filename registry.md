@@ -2,13 +2,13 @@
 title: Registry
 description: Here be dem laws
 published: true
-date: 2023-06-02T09:04:34.970Z
+date: 2023-06-02T09:04:44.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T23:03:36.382Z
 ---
 
-- [Templates](/registry/template)
+- [Legal Templates](/registry/template)
 {.links-list}
 
 ---
