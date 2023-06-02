@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-06-02T06:52:25.268Z
+date: 2023-06-02T09:05:10.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -27,7 +27,6 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 
 - [Registry *Here be the laws*](/registry)
-- [Template Records *A list of example or template documents for every type of territory.*](registry/template)
 {.links-list}
 
 
