@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-06-03T16:09:13.009Z
+date: 2023-06-03T16:16:41.912Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T04:41:18.498Z
@@ -16,8 +16,6 @@ dateCreated: 2023-06-01T04:41:18.498Z
 <div style="height: 150px"> </div>
 
 <i class="fa-solid fa-book-open-cover"></i>
-
-
 
 
 <div align="center" style="font-size: 30px;">Rejestr</div>
