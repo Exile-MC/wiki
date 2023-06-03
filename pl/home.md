@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Strona Główna
 description: 
 published: true
-date: 2023-06-03T16:16:41.912Z
+date: 2023-06-03T16:18:47.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T04:41:18.498Z
