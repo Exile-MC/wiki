@@ -2,7 +2,7 @@
 title: Mechanics
 description: Underneath everything else
 published: true
-date: 2023-06-02T16:04:37.440Z
+date: 2023-06-10T20:30:22.984Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
