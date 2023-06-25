@@ -2,7 +2,7 @@
 title: Skills Master List
 description: Temporary unsorted masterlist of all skills
 published: true
-date: 2023-06-25T13:55:42.763Z
+date: 2023-06-25T14:02:25.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T13:34:04.393Z
@@ -31,3 +31,6 @@ Medical training allows you to assess how healthy someone or something might be 
 
 ## Medical Training II (Or Advanced Medical Training)
 Advanced training grants you a deep understanding of player and animal health. (See exact health numbers for others and yourself. Numbers may be inaccurate when under the influence)
+
+## Master Archer
+Passive Skill. Increases accuracy, range, and damage of ranged attacks, making you a formidable archer in combat. Each level of this skill requires x number of bow kills. on top of other requirements to unlock.
