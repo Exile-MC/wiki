@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-06-25T19:44:07.563Z
+date: 2023-06-25T19:49:28.333Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-30T20:07:15.375Z
@@ -19,7 +19,7 @@ dateCreated: 2023-04-30T20:07:15.375Z
 
 <i class="fa-solid fa-book-open-cover"></i>
 
-Exile is a Civilization minecraft server where players specialize in 
+Exile is a Civilization minecraft server where players specialize on a skill tree, and progress in heavily extended mechanical based progression  
 
 
 <div align="center" style="font-size: 30px;">The Registry</div>
