@@ -2,7 +2,7 @@
 title: Skills Master List
 description: Temporary unsorted masterlist of all skills
 published: true
-date: 2023-06-25T14:02:25.751Z
+date: 2023-06-25T14:03:42.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T13:34:04.393Z
@@ -34,3 +34,6 @@ Advanced training grants you a deep understanding of player and animal health. (
 
 ## Master Archer
 Passive Skill. Increases accuracy, range, and damage of ranged attacks, making you a formidable archer in combat. Each level of this skill requires x number of bow kills. on top of other requirements to unlock.
+
+## Thermal Resistance 
+Passive Skill. Enhances your resistance to extreme temperatures, allowing you to withstand hot and cold environments with less impact on your energy levels. Have a hot and cold variant, requires x amount of time spent in a hot or cold enviornment respectively to unlock the related resistance. 
