@@ -2,7 +2,7 @@
 title: Skills Master List
 description: Temporary unsorted masterlist of all skills
 published: true
-date: 2023-06-25T13:35:31.470Z
+date: 2023-06-25T13:45:13.230Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T13:34:04.393Z
@@ -19,4 +19,10 @@ Ability to hold a stack of items, and convert it into a single compressed item w
 
 ## Decompression
 Ability to hold a compressed item and decompress one of that item into a stack in the inventory.
+
+## Fauna Focus
+When enabled, get esp of non hostile mobs nearby.
+
+## Aggression Sense
+When enabled, hostile mobs in your area that target you are highlighted in red\
 
