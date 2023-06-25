@@ -2,7 +2,7 @@
 title: Skills Master List
 description: Temporary unsorted masterlist of all skills
 published: true
-date: 2023-06-25T13:45:13.230Z
+date: 2023-06-25T13:55:42.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T13:34:04.393Z
@@ -26,3 +26,8 @@ When enabled, get esp of non hostile mobs nearby.
 ## Aggression Sense
 When enabled, hostile mobs in your area that target you are highlighted in red\
 
+## Medical Training
+Medical training allows you to assess how healthy someone or something might be roughly at a glance, including yourself. (See other mobs and players health bars)
+
+## Medical Training II (Or Advanced Medical Training)
+Advanced training grants you a deep understanding of player and animal health. (See exact health numbers for others and yourself. Numbers may be inaccurate when under the influence)
