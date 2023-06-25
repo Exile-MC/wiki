@@ -2,7 +2,7 @@
 title: Skills Master List
 description: Temporary unsorted masterlist of all skills
 published: true
-date: 2023-06-25T15:08:43.301Z
+date: 2023-06-25T20:50:38.538Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T13:34:04.393Z
@@ -40,4 +40,7 @@ Passive Skill. Enhances your resistance to extreme temperatures, allowing you to
 
 ## Quiet Footed
 When sneaking, players can only hear your footsteps if they are within 4 blocks of you.
+
+## Clean Kill
+Animal kills with arrows or one hit mele weapon kills have double drops.
 
