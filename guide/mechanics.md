@@ -2,7 +2,7 @@
 title: Mechanics
 description: Underneath everything else
 published: true
-date: 2023-06-10T20:30:22.984Z
+date: 2023-06-29T05:32:20.817Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:25:24.095Z
@@ -15,6 +15,7 @@ The server has a variety of custom features and mechanics. These are loosely bas
 - [Stamina *May Hylia grant you more*](/guide/mechanics/stamina)
 - [Exchange *Become a salesman*](/guide/mechanics/exchange)
 - [FortiChunk *Obby reinforced obby reinforced obby*](/guide/mechanics/fortichunk)
+- [Experience *pling pling PING bing ping*](/guide/mechanics/xp)
 - [Domain *There's no golden shovel here*](/guide/mechanics/domain)
 - [Combat *I dunno*](/guide/mechanics/combat)
 - [Exclusion *ExilePearls*](/guide/mechanics/exclusion)
