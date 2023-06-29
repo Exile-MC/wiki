@@ -2,7 +2,7 @@
 title: Items master List
 description: 
 published: true
-date: 2023-06-29T06:35:02.004Z
+date: 2023-06-29T06:36:16.603Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-29T06:24:26.496Z
@@ -25,6 +25,9 @@ dateCreated: 2023-06-29T06:24:26.496Z
 ![cassiterite_160.png](/compendium/items/ores/cassiterite_160.png =55x)
 **Cassiterite** can be smelted alongside coal to create tin lodestone. Smelting tin lode gives tin.
 
+___
+![cobblestone_160.png](/compendium/items/ores/cobblestone_160.png =60x)
+**Raw Diamond** can be cut and polished into diamonds.
 
 # Lodestones
 
@@ -43,13 +46,7 @@ dateCreated: 2023-06-29T06:24:26.496Z
 ![cobblestone_160.png](/compendium/items/ores/cobblestone_160.png =60x)
 **Tin Lodestone** can be smelted into tin.
 
-___
-![cobblestone_160.png](/compendium/items/ores/cobblestone_160.png =60x)
-**Raw Diamond** can be cut and polished into diamonds.
 
-___
-![cobblestone_160.png](/compendium/items/ores/cobblestone_160.png =60x)
-**Diamond** strong gemstone, great for personal and industrial equipment and tools. 
 
 # Mineral By-Products
 
@@ -74,6 +71,11 @@ ___
 ---
 ![cobblestone_160.png](/compendium/items/ores/cobblestone_160.png =60x)
 **Steel** is a incredibly strong metal. Good for machines and industrial equipment.
+
+# Gemstones
+
+![cobblestone_160.png](/compendium/items/ores/cobblestone_160.png =60x)
+**Diamond** strong gemstone, great for personal and industrial equipment and tools. 
 
 # Currently Unsorted
 
