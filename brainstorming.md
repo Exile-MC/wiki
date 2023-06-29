@@ -2,7 +2,7 @@
 title: Brainstorming
 description: 
 published: true
-date: 2023-06-10T20:48:31.117Z
+date: 2023-06-29T05:54:28.880Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-05T08:44:12.881Z
@@ -35,7 +35,7 @@ Silver
 
 Cinnabar Becomes mercury with low temp smelting
 
-casseterite becomes tin with high temp carbon, and then leached with water to remove impurities (makes slag)
+cassiterite becomes tin with high temp carbon, and then leached with water to remove impurities (makes slag)
 
 sulfide ore must be crushed then mix with water to make sulfide slurry, which is then made molten, resulting in sulfur to bind to the oxygen in the water of the slurry to make sulur oxide, and the left over metals is mostly copper, with a little bit of iron, gold and silver. Can be further refined with electrolisis which makes more gold and silver, and pure copper. Silica is required in one of the processes which binds with impurities, diorite is mostly silica.
 
