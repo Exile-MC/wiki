@@ -2,7 +2,7 @@
 title: Items master List
 description: 
 published: true
-date: 2023-06-29T06:31:54.370Z
+date: 2023-06-29T06:35:02.004Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-29T06:24:26.496Z
@@ -74,4 +74,10 @@ ___
 ---
 ![cobblestone_160.png](/compendium/items/ores/cobblestone_160.png =60x)
 **Steel** is a incredibly strong metal. Good for machines and industrial equipment.
+
+# Currently Unsorted
+
+![cobblestone_160.png](/compendium/items/ores/cobblestone_160.png =60x)
+**Storage Cell** metal container made from steel. Good for transporting various things. Can be filled with water, lava, experience, slurry, oil, and more.
+
 
