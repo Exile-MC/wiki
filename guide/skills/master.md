@@ -2,7 +2,7 @@
 title: Skills Master List
 description: Temporary unsorted masterlist of all skills
 published: true
-date: 2023-06-25T20:50:38.538Z
+date: 2023-07-01T05:31:14.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-25T13:34:04.393Z
@@ -19,6 +19,9 @@ Ability to hold a stack of items, and convert it into a single compressed item w
 
 ## Decompression
 Ability to hold a compressed item and decompress one of that item into a stack in the inventory.
+
+## Rail Mechanic
+Sneak right click a placed rail to cycle its blockstate.
 
 ## Fauna Focus
 When enabled, get esp of non hostile mobs nearby.
