@@ -2,7 +2,7 @@
 title: Skills Master List
 description: Temporary unsorted masterlist of all skills
 published: true
-date: 2024-12-28T14:40:22.705Z
+date: 2024-12-28T17:57:26.483Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-28T14:10:17.220Z
@@ -15,7 +15,8 @@ Active Skill (Requires a piece of equipment). When a player uses their survey ab
 If you harvest a crop, and you have a seed for that crop in your inventory, automatically replant the seed. (Should happen after harvested items are picked up so that seeds that might drop from harvesting also get included.)
 
 ## Compression
-Ability to hold a stack of items, and convert it into a single compressed item which can also be stacked and compressed. Works with any stacked item. 
+Ability to hold a stack of items, and convert it into a single compressed item which can also be stacked and compressed. Works with any stackable item. Upgraded skill lets you compress an already compressed stack of items a second time
+
 
 ## Decompression
 Ability to hold a compressed item and decompress one of that item into a stack in the inventory.
