@@ -2,10 +2,10 @@
 title: Skills Master List
 description: Temporary unsorted masterlist of all skills
 published: true
-date: 2023-07-01T05:31:14.610Z
+date: 2024-12-28T14:40:22.705Z
 tags: 
 editor: markdown
-dateCreated: 2023-06-25T13:34:04.393Z
+dateCreated: 2024-12-28T14:10:17.220Z
 ---
 
 ## Survey
